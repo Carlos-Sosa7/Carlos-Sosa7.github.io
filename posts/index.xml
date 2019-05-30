@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Carlos Sosa&#39;s Blog</title>
+    <link>http://carlos-sosa7.github.io/posts/</link>
+    <description>Recent content in Posts on Carlos Sosa&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 19:51:52 +0100</lastBuildDate>
+    
+	<atom:link href="http://carlos-sosa7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome!</title>
+      <link>http://carlos-sosa7.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 28 May 2019 19:51:52 +0100</pubDate>
+      
+      <guid>http://carlos-sosa7.github.io/posts/my-first-post/</guid>
+      <description>Hello everyone! My name is Carlos Sosa. Glad you took the time to stop by my blog. I was born in Caracas, Venezuela but have lived in Miami, Florida since July 2007. I am in incoming sophomore at the University of Michigan planning on studying Information Science or Data Science. I am currently studying abroad in Lisbon on a program called I_Xperience.</description>
+    </item>
+    
+  </channel>
+</rss>
